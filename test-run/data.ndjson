@@ -1,0 +1,10 @@
+{"meta":{},"name":"color.mean.r","timestamp":"2023-08-31T12:20:31.565880778","value":141.19715494791666}
+{"meta":{},"name":"color.mean.g","timestamp":"2023-08-31T12:20:31.565880778","value":156.629921875}
+{"meta":{},"name":"color.mean.b","timestamp":"2023-08-31T12:20:31.565880778","value":165.30506510416666}
+{"meta":{},"name":"color.mean.r","timestamp":"2023-08-31T12:21:13.459028954","value":152.436337890625}
+{"meta":{},"name":"color.mean.g","timestamp":"2023-08-31T12:21:13.459028954","value":170.35893880208334}
+{"meta":{},"name":"color.mean.b","timestamp":"2023-08-31T12:21:13.459028954","value":176.60518229166667}
+{"meta":{},"name":"color.mean.r","timestamp":"2023-08-31T12:30:27.530608986","value":115.83124348958333}
+{"meta":{},"name":"color.mean.g","timestamp":"2023-08-31T12:30:27.530608986","value":125.859541015625}
+{"meta":{},"name":"color.mean.b","timestamp":"2023-08-31T12:30:27.530608986","value":131.689140625}
+{"meta":{"filename":"snapshot.jpg"},"name":"upload","timestamp":"2023-08-31T12:30:27.530608986","value":"/home/joaquin/workspace/anl-5g-waggle-test/test-run/uploads/1693503027530607986-snapshot.jpg"}

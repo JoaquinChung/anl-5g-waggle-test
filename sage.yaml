@@ -1,0 +1,13 @@
+name: "anl-5g-waggle-test"
+version: "0.1.0"
+description: "5G test for Sage Hackaton 2023"
+keywords: ""
+authors: "Joaquin Chung"
+collaborators: ""
+funding: ""
+license: ""
+homepage: ""
+source:
+  architectures:
+    - "linux/amd64"
+    - "linux/arm64"
